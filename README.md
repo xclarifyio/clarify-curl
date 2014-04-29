@@ -1,7 +1,7 @@
-Op3nVoice curl examples
+OP3Nvoice curl examples
 ==============
 
-This project is just a holder for examples of using the Op3nVoice API using curl.
+This project is just a holder for examples of using the OP3Nvoice API using curl.
 
 ### Create an audio bundle:
 
