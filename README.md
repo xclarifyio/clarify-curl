@@ -1,7 +1,7 @@
-OP3Nvoice curl examples
+Clarify curl examples
 ==============
 
-This project is just a holder for examples of using the OP3Nvoice API using curl.
+This project is just a holder for examples of using the Clarify API using curl.
 
 ### Create an audio bundle:
 
